@@ -2,7 +2,7 @@
 
 <p> I'm Nan, a Computer Systems student from <img src="https://github.com/Nansun1202/Nansun1202/blob/main/emoji/China.png?raw=true" width="14"/> <b>China</b>, currently studying at <td><a href="https://www.ul.ie/courses/bachelor-science-computer-systems"><b>University of Limerick</b></a></td> in <img src="https://github.com/Nansun1202/Nansun1202/blob/main/emoji/ireland.png?raw=true" width="14"/> <b>Ireland</b>. </p>
 
-### Languages and Tools:
+<h3>Languages and Tools</h3>
 <img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" />
