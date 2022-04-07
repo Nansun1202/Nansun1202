@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1><img src="https://github.com/Nansun1202/Nansun1202/blob/main/emoji/cool-doge.gif?raw=true" width="40"/> Hi there! </h1>
+
+<p> I'm Nan, a CS student from <b>China</b> <img src="https://github.com/Nansun1202/Nansun1202/blob/main/emoji/China.png?raw=true" width="14"/>, currently studying at <td><a href="https://www.ul.ie/"><b>University of Limerick</b></a></td> in <b>Ireland</b> <img src="https://github.com/Nansun1202/Nansun1202/blob/main/emoji/ireland.png?raw=true" width="14"/> </p>
 
 <!--
 **Nansun1202/Nansun1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
