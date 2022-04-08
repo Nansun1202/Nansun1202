@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/Nansun1202/Nansun1202/blob/main/emoji/cool-doge.gif?raw=true" width="40"/> Hi there! </h1>
 
-<p> I'm Nan, a Computer Systems student from <img src="https://github.com/Nansun1202/Nansun1202/blob/main/emoji/China.png?raw=true" width="14"/> <b>China</b>, currently studying at <td><a href="https://www.ul.ie/courses/bachelor-science-computer-systems"><b>University of Limerick</b></a></td> in <img src="https://github.com/Nansun1202/Nansun1202/blob/main/emoji/ireland.png?raw=true" width="14"/> <b>Ireland</b>. </p>
+<p> I'm Nan, a <td><a href="https://www.ul.ie/courses/bachelor-science-computer-systems"><b>Computer Systems</b></a></td> student from <img src="https://github.com/Nansun1202/Nansun1202/blob/main/emoji/China.png?raw=true" width="14"/> <b>China</b>, currently studying at <td><a href="https://www.ul.ie/"><b>University of Limerick</b></a></td> in <img src="https://github.com/Nansun1202/Nansun1202/blob/main/emoji/ireland.png?raw=true" width="14"/> <b>Ireland</b>. </p>
 
 <h3>Languages and Tools</h3>
 <img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" style="padding-right:10px;" />
